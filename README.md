@@ -33,6 +33,17 @@
 
 ## Demo images
   ### Login Page
-      ![The login page with the top bar from base.html and a login form](/assets)
+  ![alt text](https://github.com/Kamal-git-Suresh/Pharma_Thing/blob/main/Demo_Images/login_page.png "Login page")
+
+  ### Homepage
+  ![alt text](https://github.com/Kamal-git-Suresh/Pharma_Thing/blob/main/Demo_Images/homepage.png "Login page")
+
+  ### Just the base html file
+  ![alt text](https://github.com/Kamal-git-Suresh/Pharma_Thing/blob/main/Demo_Images/base_html_stuff.png "Login page")  
+  + This is the base html file. Currently holds only the top bar
+  + Base.html should be extended by all the other html files
+  + When extended the contents of the base.html should appear on all pages
+     
+  
       
   
